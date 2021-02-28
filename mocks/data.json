@@ -1,0 +1,96 @@
+{
+    "TYPE": "SUCCESS",
+    "ANS": {
+        "items": [{
+                "id": 6,
+                "shop_id": "2695",
+                "zones": [
+                    [{
+                            "lat": 55.715685676518774,
+                            "lng": 37.60302304213367
+                        },
+                        {
+                            "lat": 55.686312235208476,
+                            "lng": 37.516368362716506
+                        },
+                        {
+                            "lat": 55.65643192809779,
+                            "lng": 37.53216120939619
+                        },
+                        {
+                            "lat": 55.66264270937458,
+                            "lng": 37.5925860140837
+                        },
+                        {
+                            "lat": 55.67506130317959,
+                            "lng": 37.58297297697431
+                        },
+                        {
+                            "lat": 55.715685676518774,
+                            "lng": 37.60302304213367
+                        }
+                    ]
+                ],
+                "accepting": true,
+                "enable": true,
+                "schedule": {
+                    "open": 660,
+                    "close": 1200,
+                    "open_str": "11:00",
+                    "close_str": "20:00"
+                },
+                "weight_limits": {
+                    "total_initial": 30,
+                    "total_replacement": 33,
+                    "drinks_initial": 10.5,
+                    "drinks_replacement": 12,
+                    "ignore": true
+                },
+                "timezone": "Europe/Moscow"
+            },
+            {
+                "id": 7,
+                "shop_id": "2247",
+                "zones": [
+                    [{
+                            "lat": 55.61815689922238,
+                            "lng": 37.726813350179924
+                        },
+                        {
+                            "lat": 55.61815689922238,
+                            "lng": 37.75393584773851
+                        },
+                        {
+                            "lat": 55.59502919393814,
+                            "lng": 37.7377996783049
+                        },
+                        {
+                            "lat": 55.59891716076969,
+                            "lng": 37.70552733943772
+                        },
+                        {
+                            "lat": 55.61815689922238,
+                            "lng": 37.726813350179924
+                        }
+                    ]
+                ],
+                "accepting": true,
+                "enable": true,
+                "schedule": {
+                    "open": 720,
+                    "close": 1439,
+                    "open_str": "12:00",
+                    "close_str": "23:59"
+                },
+                "weight_limits": {
+                    "total_initial": 30,
+                    "total_replacement": 33,
+                    "drinks_initial": 10.5,
+                    "drinks_replacement": 12,
+                    "ignore": true
+                },
+                "timezone": "Europe/Moscow"
+            }
+        ]
+    }
+}

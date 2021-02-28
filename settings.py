@@ -1,1 +1,2 @@
+""" settings module """
 PATH = '/test'
